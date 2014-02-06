@@ -1,0 +1,12 @@
+# vacavoladora.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
+
+bigdecimal -v1.2.3
+gosu -v0.7.50
+hasu -v0.1.4
+io-console -v0.4.2
+json -v1.8.1
+minitest -v4.7.5
+psych -v2.0.2
+rake -v10.1.0
+rdoc -v4.1.0
+test-unit -v2.1.0.0
